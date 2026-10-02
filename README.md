@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (2)
+- [games](#games) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
 - [math](#math) (1)
@@ -27,6 +28,12 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 
 ### greedy
 
