@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 9 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 
 ---
 
@@ -28,6 +28,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ### games
 
@@ -47,6 +48,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
@@ -70,6 +72,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
