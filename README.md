@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 7 | 7 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [brute force](#brute-force) (2)
 - [games](#games) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [sortings](#sortings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -40,12 +40,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### math
@@ -58,6 +60,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### strings
@@ -66,6 +69,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ---
 
