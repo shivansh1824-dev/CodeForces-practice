@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 7 |
+| 10 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (3)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [math](#math) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (5)
@@ -49,6 +49,7 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
