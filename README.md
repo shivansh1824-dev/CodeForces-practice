@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 7 |
+| 13 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (4)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
@@ -21,6 +22,12 @@
 - [strings](#strings) (6)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/shivansh1824-dev/CodeForces-practice/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### brute force
 
